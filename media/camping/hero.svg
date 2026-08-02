@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Campsite at dawn">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffdca8" />
+      <stop offset="60%" stop-color="#ffb27a" />
+      <stop offset="100%" stop-color="#8fbf8a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#sky)" />
+  <circle cx="650" cy="110" r="55" fill="#fff3cf" />
+  <polygon points="0,340 160,220 320,340" fill="#5b7a4f" />
+  <polygon points="240,340 420,190 600,340" fill="#4a6a41" />
+  <rect x="0" y="330" width="800" height="120" fill="#7fa363" />
+  <polygon points="330,340 400,240 470,340" fill="#e2e2e2" stroke="#4a3221" stroke-width="4" />
+  <rect x="380" y="300" width="40" height="40" fill="#4a3221" />
+  <circle cx="200" cy="380" r="18" fill="#d98c3a" />
+  <circle cx="200" cy="380" r="10" fill="#ffd27a" />
+  <text x="400" y="430" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="26" fill="#2c2620">Camping Adventure Trail</text>
+</svg>

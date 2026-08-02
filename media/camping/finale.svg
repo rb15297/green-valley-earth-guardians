@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Successful camping trip celebration">
+  <defs>
+    <linearGradient id="sunset" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff9a6a" />
+      <stop offset="55%" stop-color="#ffd27a" />
+      <stop offset="100%" stop-color="#8fbf8a" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#sunset)" />
+  <rect x="0" y="330" width="800" height="120" fill="#7fa363" />
+  <polygon points="60,330 220,140 380,330" fill="#4a6a41" />
+  <polygon points="300,330 460,110 620,330" fill="#5b7a4f" />
+  <g stroke="#fff3cf" stroke-width="4">
+    <line x1="120" y1="80" x2="140" y2="60" />
+    <line x1="140" y1="80" x2="120" y2="60" />
+    <line x1="700" y1="120" x2="720" y2="100" />
+    <line x1="720" y1="120" x2="700" y2="100" />
+    <line x1="650" y1="60" x2="666" y2="44" />
+    <line x1="666" y1="60" x2="650" y2="44" />
+  </g>
+  <g transform="translate(320,250)">
+    <circle cx="30" cy="20" r="22" fill="#f4c9a6" stroke="#4a3221" stroke-width="2" />
+    <path d="M15 15 Q30 -3 45 15 Q38 7 30 9 Q22 7 15 15 Z" fill="#4a3221" />
+    <line x1="30" y1="42" x2="30" y2="72" stroke="#4a3221" stroke-width="6" stroke-linecap="round" />
+    <line x1="30" y1="48" x2="4" y2="30" stroke="#4a3221" stroke-width="6" stroke-linecap="round" />
+    <line x1="30" y1="48" x2="56" y2="30" stroke="#4a3221" stroke-width="6" stroke-linecap="round" />
+    <line x1="30" y1="72" x2="12" y2="112" stroke="#4a3221" stroke-width="6" stroke-linecap="round" />
+    <line x1="30" y1="72" x2="48" y2="112" stroke="#4a3221" stroke-width="6" stroke-linecap="round" />
+  </g>
+  <text x="400" y="60" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="30" font-weight="700" fill="#2c2620">Successful Camping Trip!</text>
+</svg>
